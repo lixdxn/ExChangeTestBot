@@ -3,7 +3,7 @@ from currency_converter import CurrencyConverter, RateNotFoundError
 from telebot import types
 
 
-bot = telebot.TeleBot(token='7891751036:AAFrKNdBnHWp7LYuUXroqVO1YVzEFlIUhbE')
+bot = telebot.TeleBot(token='')
 currency = CurrencyConverter()
 amount = 0
 
